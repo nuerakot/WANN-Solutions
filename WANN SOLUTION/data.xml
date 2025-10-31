@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testimonials>
+    <testimonial>
+        <name>Sir Deng Deng</name>
+        <role>Marketing Director</role>
+        <company>Global Brands Inc.</company>
+        <image>deng deng.jpg</image>
+        <content>WANN transformed our online presence with their web development services. Our e-commerce platform has seen a 200% increase in conversions since the redesign.</content>
+    </testimonial>
+    <testimonial>
+        <name>Mr Emmanuel Nuer Akot</name>
+        <role>CEO</role>
+        <company>TechStart Innovations</company>
+        <image>Emma.jpg</image>
+        <content>The mobile app developed by WANN has been a game-changer for our business. Their team was professional, responsive, and delivered ahead of schedule.</content>
+    </testimonial>
+    <testimonial>
+        <name>Agok Kuol</name>
+        <role>Operations Manager</role>
+        <company>LogiSolutions</company>
+        <image>agokkuol.jpg</image>
+        <content>WANN's cloud solutions helped us scale our infrastructure seamlessly during our rapid growth phase. Their support team is exceptional.</content>
+    </testimonial>
+</testimonials>
